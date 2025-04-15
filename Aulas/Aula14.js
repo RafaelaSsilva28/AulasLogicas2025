@@ -22,6 +22,7 @@ function patinhas() {
     console.log('          amo animais              ')
     console.log('🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾')
 }
+
 patinhas();
 
 
